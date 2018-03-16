@@ -7,5 +7,3 @@ Mi primer repositorio en el Master de Data Science
 * markdown
 
 Pruebo la *cursiva* y la **negrita**
-
-Hola hola!
