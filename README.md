@@ -8,6 +8,4 @@ Mi primer repositorio en el Master de Data Science
 
 Pruebo la *cursiva* y la **negrita**
 
-Hola hola! Liándola más uhm
-
 Liándola
