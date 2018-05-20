@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526111097887.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1215485800",
+    "id" : "F715F55A",
+    "lastKnownWriteTime" : 1526124965,
+    "last_content_update" : 1526124965167,
+    "path" : "~/R/code/sesion1/sesion1.R",
+    "project_path" : "sesion1.R",
+    "properties" : {
+        "cursorPosition" : "107,0",
+        "scrollLine" : "91",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
